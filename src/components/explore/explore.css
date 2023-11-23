@@ -1,0 +1,25 @@
+.my-tabs{
+    width: fit-content !important;
+    border-radius: 100px;
+    padding: 5px;
+    flex-wrap: nowrap !important;
+    justify-content: center;
+    overflow: auto;
+}
+
+.my-tabs .nav-link{
+    padding: 10px 20px !important;
+    border-radius: 100px !important;
+    color: black !important;
+    font-size: 1.1rem;
+}
+
+.my-tabs.nav-link:hover{
+    background-color: rgb(96, 91, 91);
+}
+
+.my-tabs .nav-link.active{
+    background-image:none !important;
+    background-color:black !important;
+    color:rgb(255, 255, 255) !important;
+}

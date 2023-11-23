@@ -1,0 +1,17 @@
+.features-card-header img{
+    width: 120px;
+    height: 120px;
+    
+}
+.step{
+    background-color: lavender;
+    color: purple;
+    width: fit-content;
+}
+.features-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}

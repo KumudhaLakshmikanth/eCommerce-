@@ -1,0 +1,8 @@
+.offer-container{
+    background: url(https://ciseco-nextjs.vercel.app/_next/static/media/Moon.d5aa06ae.svg) no-repeat center;
+    background-size: cover;
+    background-color: beige;
+    border-radius: 20px;
+    padding: 10px;
+    
+}

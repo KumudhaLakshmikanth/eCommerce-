@@ -1,0 +1,31 @@
+.sellers-card{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px  !important;
+    width: fit-content;
+}
+
+.seller-card-header{
+    position: relative;
+    background-color:rgb(141, 228, 199);
+    border-radius: 30px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.card-extra{
+    position:absolute;
+    top:0;
+    width: 100%;
+    left:0;
+    padding: 10px;
+}
+
+.fav{
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    border-radius: 100px;
+    background-color:white ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
